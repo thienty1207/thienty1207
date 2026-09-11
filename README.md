@@ -1,16 +1,61 @@
-## Hi there 👋
+# Hi 👋, I'm Ho Thien Ty
 
-<!--
-**thienty1207/thienty1207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### IT Support Intern & Software Developer from Vietnam 🇻🇳
 
-Here are some ideas to get you started:
+- 🖥️ Working with IT Support, Networking & System Administration
+- 🔨 Building **BWP SonaSea**
+- 🌐 Frontend: SvelteKit
+- ⚙️ Backend: Go / Fiber
+- 🗄️ Database: PostgreSQL
+- 🔐 Learning Networking, Linux & Cybersecurity
+- 🎮 Interested in Backend Systems and Unreal Engine
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Technologies 💻
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=svelte,ts,js,html,css" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=go,rust,nodejs" />
+</p>
+
+### Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,redis" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
+</p>
+
+---
+
+## Projects 🚀
+
+### BWP SonaSea
+Hotel staff ticketing and internal communication platform.
+
+**Stack:** SvelteKit · Go · Fiber · PostgreSQL
+
+### Go Get Some Food, Ferris!
+CV → Job Matching platform.
+
+**Stack:** SvelteKit · Go · PostgreSQL
+
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thienty1207&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thienty1207&layout=compact&theme=github_dark)
