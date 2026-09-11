@@ -2,13 +2,13 @@
 
 ### IT Support Intern & Software Developer from Vietnam 🇻🇳
 
-- 🖥️ Working with IT Support, Networking & System Administration
+- 🖥️ Working with IT Support, Networking 
 - 🔨 Building **BWP SonaSea**
 - 🌐 Frontend: SvelteKit
 - ⚙️ Backend: Go / Fiber
 - 🗄️ Database: PostgreSQL
 - 🔐 Learning Networking, Linux & Cybersecurity
-- 🎮 Interested in Backend Systems and Unreal Engine
+
 
 ---
 
