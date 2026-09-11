@@ -1,10 +1,9 @@
-## Hi 👋, I'm Ho Thien Ty
+## Hi 👉👈, I'm Ho Thien Ty
 
 Interested in **Networking and Backend Development**
 
 - 🎓 I graduated from **Nam Can Tho University** with a major in Software Engineering
 - 💼 I'm currently working as an **IT Officer** and focusing on **Backend Development**
-- 📚 I'm currently learning **Rust**
 - 💌 Contact me at: **tytybill123@gmail.com**
 
 ---
@@ -29,4 +28,3 @@ Interested in **Networking and Backend Development**
   <img src="https://skillicons.dev/icons?i=docker,git,discord" />
 </p>
 
-**Quavo · Codex**
