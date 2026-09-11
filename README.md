@@ -1,112 +1,71 @@
-<p align="center">
-  <img src="./assets/banner.gif" width="100%" alt="Profile banner" />
-</p>
-
 # Hi, I'm Ho Thien Ty 👋
 
-I'm interested in **IT Support, backend development, and networking**.
+I'm interested in **Networking** and **Backend Development**.
 
-I enjoy learning by building small projects, solving real-world technical problems, and gradually improving my understanding of systems and software development.
-
-Currently, I'm working with **Go, Fiber, SvelteKit, and PostgreSQL**.
+Currently, I'm learning through hands-on IT work and personal projects, with a focus on understanding how networks, systems, and backend services work in practice.
 
 ---
 
 ## About me
 
-- 🖥️ Working and learning in **IT Support**
-- 🌐 Interested in **Networking and System Administration**
+- 🌐 Learning **Networking** and network troubleshooting
 - ⚙️ Learning backend development with **Go**
+- 🖥️ Gaining hands-on experience through IT Support work
 - 🗄️ Working with **PostgreSQL**
-- 🔨 Currently building **BWP SonaSea**
-- 📚 Still learning and improving every day
+- 📚 Still learning and improving step by step
 
 ---
 
-## Technologies
-
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=svelte,ts,js,html,css" />
-</p>
+## Tech
 
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=go" />
+  <img src="https://skillicons.dev/icons?i=go,postgres" />
 </p>
 
-- Go
-- Fiber
+**Go · Fiber · PostgreSQL**
 
-### Database
+### Networking & Systems
 
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres" />
-</p>
+- TCP/IP
+- DNS
+- DHCP
+- VLAN
+- Basic network troubleshooting
+- Windows
+- Linux
 
 ### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux" />
 </p>
 
 ---
 
-## Projects
+## Current Project
 
 ### BWP SonaSea
 
-A hotel staff ticketing and internal communication system that I'm currently developing.
+A hotel staff ticketing system that I'm building while learning backend development and system design.
 
-The project focuses on keeping the application simple, responsive, and maintainable.
-
-**Stack**
-
-`SvelteKit` · `Go` · `Fiber` · `PostgreSQL`
+**Backend:** Go · Fiber  
+**Database:** PostgreSQL
 
 ---
 
-### Go Get Some Food, Ferris!
+## Currently Learning
 
-A small project for matching CV information with job opportunities.
-
-**Stack**
-
-`SvelteKit` · `Go` · `PostgreSQL`
-
----
-
-## Currently learning
-
+- Computer Networking
 - Go backend development
-- REST API design
+- REST APIs
 - PostgreSQL
-- Networking
 - Linux
-- IT Support troubleshooting
-
----
-
-## GitHub Stats
-
-<p>
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=thienty1207&show_icons=true&theme=github_dark&hide_border=true"
-    alt="GitHub Stats"
-  />
-</p>
-
-<p>
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=thienty1207&layout=compact&theme=github_dark&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
+- System troubleshooting
 
 ---
 
 <p align="center">
-  Thanks for visiting my profile.
+  <i>Learning by building and solving real problems.</i>
 </p>
