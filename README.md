@@ -1,71 +1,32 @@
-# Hi, I'm Ho Thien Ty 👋
+## Hi 👋, I'm Ho Thien Ty
 
-I'm interested in **Networking** and **Backend Development**.
+Interested in **Networking and Backend Development**
 
-Currently, I'm learning through hands-on IT work and personal projects, with a focus on understanding how networks, systems, and backend services work in practice.
-
----
-
-## About me
-
-- 🌐 Learning **Networking** and network troubleshooting
-- ⚙️ Learning backend development with **Go**
-- 🖥️ Gaining hands-on experience through IT Support work
-- 🗄️ Working with **PostgreSQL**
-- 📚 Still learning and improving step by step
+- 🎓 I graduated from **Nam Can Tho University** with a major in Software Engineering
+- 💼 I'm currently working as an **IT Officer** and focusing on **Backend Development**
+- 📚 I'm currently learning **Rust**
+- 💌 Contact me at: **tytybill123@gmail.com**
 
 ---
 
-## Tech
+## Technologies 💻
 
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=go,postgres" />
+  <img src="https://skillicons.dev/icons?i=go,python,rust" />
 </p>
 
-**Go · Fiber · PostgreSQL**
+### Database
 
-### Networking & Systems
-
-- TCP/IP
-- DNS
-- DHCP
-- VLAN
-- Basic network troubleshooting
-- Windows
-- Linux
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres" />
+</p>
 
 ### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=docker,git,discord" />
 </p>
 
----
-
-## Current Project
-
-### BWP SonaSea
-
-A hotel staff ticketing system that I'm building while learning backend development and system design.
-
-**Backend:** Go · Fiber  
-**Database:** PostgreSQL
-
----
-
-## Currently Learning
-
-- Computer Networking
-- Go backend development
-- REST APIs
-- PostgreSQL
-- Linux
-- System troubleshooting
-
----
-
-<p align="center">
-  <i>Learning by building and solving real problems.</i>
-</p>
+**Quavo · Codex**
